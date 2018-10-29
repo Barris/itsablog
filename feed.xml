@@ -3,7 +3,7 @@
     <title>It&#x27;s a blog</title>
     <link href="https://barris.github.io/itsablog/feed.xml" rel="self" />
     <link href="https://barris.github.io/itsablog" />
-    <updated>2018-10-29T12:26:26+01:00</updated>
+    <updated>2018-10-29T12:29:57+01:00</updated>
     <author>
         <name>Fredrik</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://barris.github.io/itsablog/the-greatest-post-that-has-ever-lived/"/>
         <id>https://barris.github.io/itsablog/the-greatest-post-that-has-ever-lived/</id>
+            <category term="Posts"/>
 
-        <updated>2018-10-29T12:18:40+01:00</updated>
+        <updated>2018-10-29T12:28:05+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://barris.github.io/itsablog/media/posts/2/" alt="" />
@@ -44,8 +45,9 @@
         </author>
         <link href="https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/"/>
         <id>https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/</id>
+            <category term="Posts"/>
 
-        <updated>2018-10-29T12:17:35+01:00</updated>
+        <updated>2018-10-29T12:28:13+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://barris.github.io/itsablog/media/posts/1/" alt="" />
