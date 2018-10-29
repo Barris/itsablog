@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>It&#x27;s a blog</title>
+    <link href="https://barris.github.io/itsablog/feed.xml" rel="self" />
+    <link href="https://barris.github.io/itsablog" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Fredrik</name>
+    </author>
+    <id>https://barris.github.io/itsablog</id>
+
+</feed>

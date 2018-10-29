@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "It&#x27;s a blog",
+    "description": "",
+    "home_page_url": "https://barris.github.io/itsablog",
+    "feed_url": "https://barris.github.io/itsablog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fredrik"
+    },
+    "items": [
+    ]
+}
