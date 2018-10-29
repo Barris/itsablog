@@ -10,11 +10,26 @@
     },
     "items": [
         {
+            "id": "https://barris.github.io/itsablog/the-greatest-post-that-has-ever-lived/",
+            "url": "https://barris.github.io/itsablog/the-greatest-post-that-has-ever-lived/",
+            "title": "The greatest post that has ever lived",
+            "summary": "Is it really? No. But... Could it really be? No. But... Does it want to be? Well, no. But it would be cool! Let's hope for something cool today.",
+            "content_html": "<p>Is it really?</p>\n<p>No. But...</p>\n<p>Could it really be?</p>\n<p>No. But...</p>\n<p>Does it want to be?</p>\n<p>Well, no. But it would be cool!</p>\n<p>Let's hope for something cool today.</p>",
+            "image": "https://barris.github.io/itsablog/media/posts/2/",
+            "author": {
+                "name": "Fredrik"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-29T12:18:40+01:00",
+            "date_modified": "2018-10-29T12:18:40+01:00"
+        },
+        {
             "id": "https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/",
             "url": "https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/",
             "title": "Is it a bird? Is it a plane?",
-            "summary": "No, it's a blog.",
-            "content_html": "No, it's a blog.",
+            "summary": "No, it's a blog. Get ready to read stuff. That's what blogs are for. Not in the mood for reading? Great, do something else. Great, do something else. See you next post.",
+            "content_html": "<p>No, it's a blog. Get ready to read stuff. That's what blogs are for.<br>Not in the mood for reading? Great, do something else.</p>\n<blockquote>\n<p>Great, do something else.</p>\n</blockquote>\n<p>See you next post.</p>",
             "image": "https://barris.github.io/itsablog/media/posts/1/",
             "author": {
                 "name": "Fredrik"
@@ -22,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2018-10-29T11:16:18+01:00",
-            "date_modified": "2018-10-29T11:16:18+01:00"
+            "date_modified": "2018-10-29T12:17:35+01:00"
         }
     ]
 }

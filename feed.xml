@@ -3,12 +3,40 @@
     <title>It&#x27;s a blog</title>
     <link href="https://barris.github.io/itsablog/feed.xml" rel="self" />
     <link href="https://barris.github.io/itsablog" />
-    <updated>2018-10-29T12:16:02+01:00</updated>
+    <updated>2018-10-29T12:19:01+01:00</updated>
     <author>
         <name>Fredrik</name>
     </author>
     <id>https://barris.github.io/itsablog</id>
 
+    <entry>
+        <title>The greatest post that has ever lived</title>
+        <author>
+            <name>Fredrik</name>
+        </author>
+        <link href="https://barris.github.io/itsablog/the-greatest-post-that-has-ever-lived/"/>
+        <id>https://barris.github.io/itsablog/the-greatest-post-that-has-ever-lived/</id>
+
+        <updated>2018-10-29T12:18:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://barris.github.io/itsablog/media/posts/2/" alt="" />
+                    Is it really? No. But... Could it really be? No. But... Does it want to be? Well, no. But it would be cool! Let's hope for something cool today.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://barris.github.io/itsablog/media/posts/2/" alt="" />
+                <p>Is it really?</p>
+<p>No. But...</p>
+<p>Could it really be?</p>
+<p>No. But...</p>
+<p>Does it want to be?</p>
+<p>Well, no. But it would be cool!</p>
+<p>Let's hope for something cool today.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Is it a bird? Is it a plane?</title>
         <author>
@@ -17,17 +45,21 @@
         <link href="https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/"/>
         <id>https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/</id>
 
-        <updated>2018-10-29T11:16:18+01:00</updated>
+        <updated>2018-10-29T12:17:35+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://barris.github.io/itsablog/media/posts/1/" alt="" />
-                    No, it's a blog.
+                    No, it's a blog. Get ready to read stuff. That's what blogs are for. Not in the mood for reading? Great, do something else. Great, do something else. See you next post.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://barris.github.io/itsablog/media/posts/1/" alt="" />
-                No, it's a blog.
+                <p>No, it's a blog. Get ready to read stuff. That's what blogs are for.<br>Not in the mood for reading? Great, do something else.</p>
+<blockquote>
+<p>Great, do something else.</p>
+</blockquote>
+<p>See you next post.</p>
             ]]>
         </content>
     </entry>
