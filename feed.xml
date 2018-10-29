@@ -3,10 +3,32 @@
     <title>It&#x27;s a blog</title>
     <link href="https://barris.github.io/itsablog/feed.xml" rel="self" />
     <link href="https://barris.github.io/itsablog" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-10-29T11:17:00+01:00</updated>
     <author>
         <name>Fredrik</name>
     </author>
     <id>https://barris.github.io/itsablog</id>
 
+    <entry>
+        <title>Is it a bird? Is it a plane?</title>
+        <author>
+            <name>Fredrik</name>
+        </author>
+        <link href="https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/"/>
+        <id>https://barris.github.io/itsablog/is-it-a-bird-is-it-a-plane/</id>
+
+        <updated>2018-10-29T11:16:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://barris.github.io/itsablog/media/posts/1/" alt="" />
+                    No, it's a blog.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://barris.github.io/itsablog/media/posts/1/" alt="" />
+                No, it's a blog.
+            ]]>
+        </content>
+    </entry>
 </feed>
