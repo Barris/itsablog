@@ -5,6 +5,7 @@
     "home_page_url": "https://barris.github.io/itsablog",
     "feed_url": "https://barris.github.io/itsablog/feed.json",
     "user_comment": "",
+    "icon": "https://barris.github.io/itsablog/media/website/its-a-blogo.svg",
     "author": {
         "name": "Fredrik"
     },
